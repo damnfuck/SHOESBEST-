@@ -1,0 +1,27 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=38022e0a
+parentCID=fb91ea77
+isNativeSnapshot="no"
+createType="twoGbMaxExtentSparse"
+parentFileNameHint="D:\May ao\Window XP co cai SDM ASDM\Windows XP1.vmdk"
+# Extent description
+RW 8323072 SPARSE "Windows XP1-000001-s001.vmdk"
+RW 8323072 SPARSE "Windows XP1-000001-s002.vmdk"
+RW 8323072 SPARSE "Windows XP1-000001-s003.vmdk"
+RW 8323072 SPARSE "Windows XP1-000001-s004.vmdk"
+RW 8323072 SPARSE "Windows XP1-000001-s005.vmdk"
+RW 8323072 SPARSE "Windows XP1-000001-s006.vmdk"
+RW 8323072 SPARSE "Windows XP1-000001-s007.vmdk"
+RW 8323072 SPARSE "Windows XP1-000001-s008.vmdk"
+RW 8323072 SPARSE "Windows XP1-000001-s009.vmdk"
+RW 8323072 SPARSE "Windows XP1-000001-s010.vmdk"
+RW 655360 SPARSE "Windows XP1-000001-s011.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.longContentID = "85f56f1374375bd31aacacde38022e0a"
+ddb.toolsInstallType = "1"
+ddb.toolsVersion = "10240"
